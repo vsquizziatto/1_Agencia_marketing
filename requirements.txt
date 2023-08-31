@@ -1,0 +1,8 @@
+django==3.2.20
+django-environ==0.11.0 # Permite poner en secreto las cosas que son contraseñas por ejemplo
+django-cors-headers==4.2.0 # Permite la comunicación entre el backend y frontend
+djangorestframework==3.14.0 # Permite crear apis
+Pillow==10.0.0 # Permite trabajar con imágenes
+django-storages==1.13.2 # Permite guardar las imágenes o videos en abws
+django-ckeditor==6.7.0 # Es para poder crear contenido de manera más rica
+psycopg2==2.9.7 # Para poder trabajar con la base de datos de postgresql
