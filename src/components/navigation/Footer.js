@@ -99,8 +99,8 @@ function Footer() {
                     <div className="space-y-8 xl:col-span-1">
                         <img
                             src={logo}
-                            width={500}
-                            height={300}
+                            width={400}
+                            height={200}
                             className="" />
                         <div className="flex space-x-6">
                             {navigation.social.map((item) => (
